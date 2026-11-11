@@ -4,8 +4,8 @@
 
 ---
 
-## 🚀 Live Prototype
-- **Live Deployed Prototype:** [https://cynbit-architect-studio.vercel.app](https://cynbit-architect-studio.vercel.app) *(or your deployed Vercel/Netlify URL)*
+## 🚀 Live Prototype & Links
+- **Live Deployed Prototype:** [https://cynbit-improvement.vercel.app](https://cynbit-improvement.vercel.app)
 - **GitHub Repository:** [https://github.com/KratishaTandon1/cynbit-improvement](https://github.com/KratishaTandon1/cynbit-improvement)
 - **Candidate Portal Submission:** [https://www.cynbit.in/candidate/cmw3zx4qu000108juubcatocc](https://www.cynbit.in/candidate/cmw3zx4qu000108juubcatocc)
 
